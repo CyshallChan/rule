@@ -1,0 +1,45 @@
+#=================== 自定义 =======================
+DOMAIN-SUFFIX, ipv6-test.com
+DOMAIN-SUFFIX, tailscale.io
+DOMAIN-SUFFIX, tailscale.com
+# steam
+DOMAIN-SUFFIX, steamstatic.com
+DOMAIN-SUFFIX, steampowered.com
+DOMAIN-SUFFIX, steam-chat.com
+DOMAIN-SUFFIX, steamlap.top
+
+#=================== 自定义 =======================
+
+
+# > Subscription
+DOMAIN-SUFFIX,dpsrcd.lol
+# > Spotify
+DOMAIN-SUFFIX,ap.spotify.com
+# > Google
+DOMAIN,mtalk.google.com
+DOMAIN,mobile-gtalk.l.google.com
+DOMAIN,alt1-mtalk.google.com
+DOMAIN,alt2-mtalk.google.com
+DOMAIN,alt3-mtalk.google.com
+DOMAIN,alt4-mtalk.google.com
+DOMAIN,alt5-mtalk.google.com
+DOMAIN,alt6-mtalk.google.com
+DOMAIN,alt7-mtalk.google.com
+DOMAIN,alt8-mtalk.google.com
+DOMAIN,alt9-mtalk.google.com
+DOMAIN-SUFFIX,mobile-gtalk.l.google.com
+# > Proxy
+PROCESS-NAME,v2ray
+PROCESS-NAME,ss-local
+PROCESS-NAME,UUBooster
+
+# > Download
+PROCESS-NAME,aria2c
+PROCESS-NAME,fdm
+PROCESS-NAME,Folx
+PROCESS-NAME,NetTransport
+PROCESS-NAME,Thunder
+PROCESS-NAME,Transmission
+PROCESS-NAME,uTorrent
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent Helper
