@@ -1,12 +1,12 @@
 #=================== 自定义 =======================
 DOMAIN-SUFFIX, ipv6-test.com
-DOMAIN-SUFFIX, tailscale.io
-DOMAIN-SUFFIX, tailscale.com
+#DOMAIN-SUFFIX, tailscale.io
+#DOMAIN-SUFFIX, tailscale.com
 # steam
-DOMAIN-SUFFIX, steamstatic.com
-DOMAIN-SUFFIX, steampowered.com
-DOMAIN-SUFFIX, steam-chat.com
-DOMAIN-SUFFIX, steamlap.top
+#DOMAIN-SUFFIX, steamstatic.com
+#DOMAIN-SUFFIX, steampowered.com
+#DOMAIN-SUFFIX, steam-chat.com
+#DOMAIN-SUFFIX, steamlap.top
 
 #=================== 自定义 =======================
 
