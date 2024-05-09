@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX, ipv6-test.com
 
 # tailscale
-DOMAIN-SUFFIX, tailscale.com
+# DOMAIN-SUFFIX, tailscale.com
 
 # steam
 #DOMAIN-SUFFIX, steamstatic.com
